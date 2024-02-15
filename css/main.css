@@ -1,3 +1,4 @@
+
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
@@ -5258,3 +5259,12 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+
+  #contact {
+    display: flex;
+    justify-content: center;
+  }
+  .cc-contact-information {
+    width: 90%;
+  }
