@@ -29,7 +29,7 @@ Experiencia⭐
 
 - Como desarrollador de software, me especializo en el desarrollo web en el backend.
 - plataforma de desarrollo ágil PHP scriptcase. 
-- Experiencia con .Net framework 4.8 Visual Basic.
+- Experiencia con .Net framework 4.8 Visual Basic, c#.
 - Manejo de SQL Server, PostgreSQL y Cassandra.
 - Migración de una base de datos Cassandra a SQL Server.
 
